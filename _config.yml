@@ -1,6 +1,10 @@
 layout: sidebar
+<<<<<<< HEAD
 style: dark
 future: true
+=======
+style: light
+>>>>>>> parent of e1792aa... Update _config.yml
 
 plugins:
   - jekyll-octicons
@@ -24,18 +28,18 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    forks: false
+    forks: true
     projects:
     # - repo-name
 
- social_media:
+# social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-   linkedin: bell-tyler
+  # linkedin: your_username
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
