@@ -24,8 +24,8 @@ projects:
   limit: 9
   exclude:
     forks: false
-    projects:
-     - repo-name tyler-bell.github.io
+    projects: "tyler-bell.github.io"
+    # - repo-name 
 
 social_media:
   # behance: your_username
