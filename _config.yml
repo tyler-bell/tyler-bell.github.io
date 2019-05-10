@@ -1,4 +1,4 @@
-layout: stacked
+layout: sidebar
 style: dark
 
 plugins:
@@ -25,7 +25,7 @@ projects:
   exclude:
     forks: false
     projects:
-    # - repo-name
+     - repo-name "tyler-bell.github.io"
 
 social_media:
   # behance: your_username
