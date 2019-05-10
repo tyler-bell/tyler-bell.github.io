@@ -1,10 +1,5 @@
 layout: sidebar
-<<<<<<< HEAD
-style: dark
-future: true
-=======
 style: light
->>>>>>> parent of e1792aa... Update _config.yml
 
 plugins:
   - jekyll-octicons
