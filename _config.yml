@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -23,18 +23,18 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    forks: true
+    forks: false
     projects:
     # - repo-name
 
-# social_media:
+ social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+   linkedin: bell-tyler
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
